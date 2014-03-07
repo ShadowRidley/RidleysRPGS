@@ -1,0 +1,34 @@
+Domain Changes
+
+Earth Domain
+
+Acid Darts is Replaced with Earth Darts
+and instead of acid resistance they gain natural armor at 
+6th lvl equal to +1 per 3 Cleric levels
+
+Air Domain
+
+Lightning Arc is Replaced with Wind Blade
+and instead of Lighting resistance they gain a Dodge bonus 
+at 6th lvl equal to +1 per 3 Cleric levels
+
+Chain lightning is replaced by Path of Winds
+
+New: Lightning Domain
+
+Lightning arc as per the original Air domain 
+Electricity resistance as per the the original Air domain.
+
+Spells: 1st- Shocking Grasp, 2nd- Defensive shock, 3rd- 
+Lighting Bolt, 4th- Ball Lightning, 5th- Lightning arc, 
+6th- Chain Lightning, 7th- Elemental body IV (lighting 
+only), 8th- Storm Bolts, 9th- Ride the Lightning
+
+Earth Darts (Sp): As a standard action, you can unleash a 
+rock dart targeting any foe within 30 feet as a ranged 
+touch attack. This rock dart deals 1d6 points of physical 
+damage + 1 point for every two cleric levels you possess 
+(this attack is still considered magical for over coming 
+DR). You can use this ability a number of times per day 
+equal to 3 + your Wisdom modifier.
+
